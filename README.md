@@ -20,6 +20,3 @@ Happy coding! 😄
   <img  src="https://skillicons.dev/icons?i=github,gitlab,html,css,js,nodejs,py,bootstrap,mysql,flask,java,discord,ocaml,postman " /> <br>
 
 </div>
-<div align="left">
-  <h2> My contributions </h2>
-  <br>
