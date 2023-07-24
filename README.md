@@ -20,3 +20,13 @@ Happy coding! 😄
   <img  src="https://skillicons.dev/icons?i=github,gitlab,html,css,js,nodejs,py,bootstrap,mysql,flask,java,discord,ocaml,postman " /> <br>
 
 </div>
+
+
+
+![snake gif](https://github.com/laysa66/laysa66/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
+
