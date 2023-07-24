@@ -23,4 +23,4 @@ Happy coding! 😄
 <div align="center">
   <h2> My contributions </h2>
   <br>
-  <img alt="snake eating my xontributions" src="https://raw
+  ![snake animation](https://github.com/<seu laysa66>/<seu laysa66>/blob/output/github-contribution-grid-snake2.svg)
