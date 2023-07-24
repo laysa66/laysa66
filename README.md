@@ -20,7 +20,6 @@ Happy coding! 😄
   <img  src="https://skillicons.dev/icons?i=github,gitlab,html,css,js,nodejs,py,bootstrap,mysql,flask,java,discord,ocaml,postman " /> <br>
 
 </div>
-<div align="center">
+<div align="left">
   <h2> My contributions </h2>
   <br>
-  ![snake animation](https://github.com/<seu laysa66>/<seu laysa66>/blob/output/github-contribution-grid-snake2.svg)
