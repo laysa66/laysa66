@@ -23,7 +23,7 @@ Happy coding! 😄
 
 
 
-## 🐍  Contribution  🐍
+## 🐍  Contributions  🐍
 <picture>
 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laysa66/laysa66/output/github-contribution-grid-snake.svg">
