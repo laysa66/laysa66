@@ -18,7 +18,8 @@ Happy coding! 😄
 
 <h2 align="center"> Languages - Frameworks - Tools </h2>
 <div align="center">
-  <img  src="https://skillicons.dev/icons?i=github,gitlab,html,docker,c,vim,css,js,nodejs,aws,gcp,azure,react,vue,flutter,py,bootstrap,mysql,flask,java,discord,ocaml,postman,jenkins&perline=24" /> <br>
+  <img  src="https://skillicons.dev/icons?i=github,gitlab,html,docker,c,vim,css,js,nodejs,aws,gcp,azure,react,vue,flutter,py,bootstrap&perline=18" /> <br>
+<img  src="https://skillicons.dev/icons?i=mysql,flask,java,discord,ocaml,postman,jenkins" /> <br>
 
 </div>
 
