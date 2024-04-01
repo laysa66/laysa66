@@ -16,15 +16,15 @@
 
 Happy coding! 😄
 
-<h2 align="left"> Languages - Frameworks - Tools </h2>
+<h2 align="center"> Languages - Frameworks - Tools </h2>
 <div align="center">
-  <img  src="https://skillicons.dev/icons?i=github,gitlab,html,css,js,nodejs,py,bootstrap,mysql,flask,java,discord,ocaml,postman " /> <br>
+  <img  src="https://skillicons.dev/icons?i=github,gitlab,html,docker,c,vim,css,js,nodejs,aws,gcp,azure,react,vue,flutter,py,bootstrap,mysql,flask,java,discord,ocaml,postman,jenkins&perline=24" /> <br>
 
 </div>
 
 
 
-## 🐍  Contributions  🐍
+<h2 align="center">  🐍  Contributions  🐍
 <picture>
 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laysa66/laysa66/output/github-contribution-grid-snake.svg">
