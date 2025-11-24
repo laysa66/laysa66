@@ -1,5 +1,6 @@
 ## 👋 Hello there! I'm Lysa
-<img align="right" width="43%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laysa66&theme=dracula" />
+<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysa66&layout=compact&theme=dracula" />
+
 
 
 🤓 A passionate computer science student on a journey to explore the fascinating world of software development and technology.
