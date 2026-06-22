@@ -1,7 +1,6 @@
 ## 👋 Hello there! I'm Lysa
-<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysa66&layout=compact&theme=dracula" />
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laysa66&theme=tokyonight)
 
 🤓 A passionate computer science student on a journey to explore the fascinating world of software development and technology.
 
@@ -17,23 +16,15 @@
 
 Happy coding! 😄
 
-<h2 align="center"> Languages - Frameworks - Tools </h2>
-<div align="center">
-  <img  src="https://skillicons.dev/icons?i=github,gitlab,html,docker,c,vim,css,js,nodejs,aws,gcp,azure,react,vue,flutter,py,bootstrap&perline=18" /> <br>
-<img  src="https://skillicons.dev/icons?i=mysql,flask,java,discord,ocaml,postman,jenkins" /> <br>
+<h2 align="center"> GitHub Activity</h2>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laysa66&theme=tokyonight" />
+</p>
 
-
-
-<h2 align="center">  🐍  Contributions  🐍
-<picture>
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laysa66/laysa66/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laysa66/laysa66/output/github-contribution-grid-snake.svg">
-</picture>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laysa66/laysa66/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
 
